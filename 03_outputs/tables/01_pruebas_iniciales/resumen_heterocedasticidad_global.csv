@@ -1,0 +1,7 @@
+"Ticker","BP_PValue_Nivel","Hetero_Nivel","Lambda_BoxCox","BP_PValue_Log","Hetero_Log"
+"Alphabet",0,"Sí",-0.1818,0.00709,"Sí"
+"Broadcom",0,"Sí",-0.0606,0,"Sí"
+"Coca-Cola",1e-05,"Sí",0.0202,0.47114,"No"
+"Marvell",0.0022,"Sí",-0.2626,0.01558,"Sí"
+"NVIDIA",0,"Sí",-0.101,0,"Sí"
+"Qualcomm",0.00061,"Sí",-0.2626,0.79381,"No"

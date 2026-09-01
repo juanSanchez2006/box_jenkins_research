@@ -1,0 +1,5 @@
+# Ignorar todo el contenido de la carpeta de datos crudos
+01_data/raw/*
+
+# No ignorar el archivo .gitkeep para mantener la estructura de la carpeta en GitHub
+!01_data/raw/.gitkeep
